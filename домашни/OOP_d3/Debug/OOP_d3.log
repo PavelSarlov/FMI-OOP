@@ -1,0 +1,33 @@
+﻿  Main.cpp
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(137,20): warning C4101: 'a': unreferenced local variable
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(130): message : while compiling class template member function 'void JSONArray<int>::insert(const JSON<T> *)'
+          with
+          [
+              T=int
+          ]
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\Main.cpp(59): message : see reference to function template instantiation 'void JSONArray<int>::insert(const JSON<T> *)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\Main.cpp(56): message : see reference to class template instantiation 'JSONArray<int>' being compiled
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(201,20): warning C4101: 'a': unreferenced local variable
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(176): message : while compiling class template member function 'bool JSONArray<int>::remove(const char *)'
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\Main.cpp(69): message : see reference to function template instantiation 'bool JSONArray<int>::remove(const char *)' being compiled
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(212,20): warning C4101: 'a': unreferenced local variable
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(152,25): warning C4018: '>': signed/unsigned mismatch
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(151): message : while compiling class template member function 'void JSONArray<int>::remove(unsigned int)'
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(228,20): warning C4101: 'a': unreferenced local variable
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(218): message : while compiling class template member function 'T JSONArray<T>::get_value(const char *) const'
+          with
+          [
+              T=int
+          ]
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\Main.cpp(65): message : see reference to function template instantiation 'T JSONArray<T>::get_value(const char *) const' being compiled
+          with
+          [
+              T=int
+          ]
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(236,20): warning C4101: 'a': unreferenced local variable
+D:\Random\FMI\1st year\OOP\домашни\OOP_d3\JSONArray.h(214): warning C4715: 'JSONArray<int>::remove': not all control paths return a value
+  OOP_d3.vcxproj -> D:\Random\FMI\1st year\OOP\домашни\OOP_d3\Debug\OOP_d3.exe

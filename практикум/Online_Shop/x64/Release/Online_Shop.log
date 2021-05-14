@@ -1,0 +1,16 @@
+﻿  AccountDatabase.cpp
+  Appliance.cpp
+  Cart.cpp
+  Clothing.cpp
+  Electronic.cpp
+  Home.cpp
+  Main.cpp
+  Product.cpp
+  Software.cpp
+  Store.cpp
+  User.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1061 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Online_Shop.vcxproj -> D:\Random\FMI\1st year\OOP\практикум\Online_Shop\x64\Release\Online_Shop.exe

@@ -1,0 +1,2 @@
+D:\Random\FMI\1st year\OOP\практикум\Online_Shop\x64\Debug\Online_Shop.exe
+D:\Random\FMI\1st year\OOP\практикум\Online_Shop\x64\Debug\Online_Shop.pdb

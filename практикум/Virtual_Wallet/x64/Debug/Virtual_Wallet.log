@@ -1,0 +1,6 @@
+﻿  ExpirationDate.cpp
+D:\Random\FMI\1st year\OOP\практикум\Virtual_Wallet\ExpirationDate.cpp(11,26): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Wallet.cpp
+D:\Random\FMI\1st year\OOP\практикум\Virtual_Wallet\Wallet.cpp(72,15): error C2440: 'return': cannot convert from 'Card' to 'Card &'
+D:\Random\FMI\1st year\OOP\практикум\Virtual_Wallet\Wallet.cpp(72,13): message : A non-const reference may only be bound to an lvalue
+  Generating Code...

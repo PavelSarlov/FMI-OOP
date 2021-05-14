@@ -1,0 +1,4 @@
+Transaction made on Thu Apr  9 14:38:47 2020
+Item: some item
+Price: 15.99
+

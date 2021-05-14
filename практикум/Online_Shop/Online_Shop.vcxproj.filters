@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Source\Profiles</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountDatabase.cpp">
+      <Filter>Source\Profiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Appliance.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Cart.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Clothing.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Electronic.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Home.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Software.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+    <ClCompile Include="Store.cpp">
+      <Filter>Source\Store</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AccountDatabase.h">
+      <Filter>Headers\Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Headers\Profiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Store.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Software.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Clothing.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Electronic.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Home.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Appliance.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+    <ClInclude Include="Cart.h">
+      <Filter>Headers\Store</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{14f09d23-977c-4bf4-8990-2369cd2b5f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{6afc97ee-b5bd-45cf-ad28-7e98706f2727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\Profiles">
+      <UniqueIdentifier>{78f42799-d246-413d-bc02-bff9d811eb70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers\Store">
+      <UniqueIdentifier>{e3ea02c5-4199-441d-90f1-8e3c7e1c30c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Profiles">
+      <UniqueIdentifier>{586b2f6e-3efe-4069-ad12-b5610ceeae85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Store">
+      <UniqueIdentifier>{17ee4eeb-b4f9-4634-a81b-418922bb683a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
